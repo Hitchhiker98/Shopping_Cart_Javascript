@@ -1,5 +1,5 @@
-import { setupStore } from "./store"
-import { setupShoppingCart } from "./shoppingCart"
+import { setupStore } from "./store.js"
+import { setupShoppingCart } from "./shoppingCart.js"
 
 setupStore()
 setupShoppingCart()
